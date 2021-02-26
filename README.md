@@ -54,7 +54,7 @@ HTML         2 mins          ░░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Leetcode-informational?style=flat&logo=leetcode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Practice_Tool-Geeks_For_Geeks-informational?style=flat&logo=geeks-for-geeks&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Practice_Tool-Geeks_For_Geeks-informational?style=flat&logo=geeksforgeeks&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Windows_PowerShell-informational?style=flat&logo=windows-terminal&logoColor=white&color=2bbc8a)
 
