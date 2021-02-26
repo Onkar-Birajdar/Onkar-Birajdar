@@ -1,14 +1,10 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Onkar's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://twitter.com/onkarbi21566625">
   <img align="left" alt="Onkar's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/onkar-birajdar-7a84591b1">
   <img align="left" alt="Onkar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Onkar-Birajdar.Onkar-Birajdar)
 
 Hi, I'm Onkar Birajdar, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -18,17 +14,13 @@ Hi, I'm Onkar Birajdar, a passionate self-taught Full Stack web developer and a 
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Birajdar&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Birajdar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Onkar-Birajdar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 <a href="https://github.com/Onkar-Birajdar/Portfolio.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Onkar-Birajdar&repo=Portfolio.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
-  <img align="center" src="https://github-readme-stats.vercel.app/wakatime?username=Onkar-Birajdar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Onkar's GitHub Stats" />
-</a>
-[](https://github-readme-stats.vercel.app/api/wakatime?username=Onkar-Birajdar)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Onkar-Birajdar)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Languages and Tools:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
