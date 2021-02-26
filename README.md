@@ -45,19 +45,18 @@ HTML         2 mins          ░░░░░░░░░░░░░░░░░
 ## 🔧 Languages and Tools:
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Leetcode-informational?style=flat&logo=leetcode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Practice_Tool-Geeks_For_Geeks-informational?style=flat&logo=geeksforgeeks&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Windows_PowerShell-informational?style=flat&logo=windows-terminal&logoColor=white&color=2bbc8a)
-
+  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Tool-Leetcode-informational?style=flat&logo=leetcode&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Practice_Tool-Geeks_For_Geeks-informational?style=flat&logo=geeksforgeeks&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Shell-Windows_PowerShell-informational?style=flat&logo=windows-terminal&logoColor=white&color=2bbc8a)
 </p>
