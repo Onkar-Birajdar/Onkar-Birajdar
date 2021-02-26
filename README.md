@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Onkar!
 
-Onkar Birajdar is an aspiring software developer. He is from Solapur, living in India and currently pursuing Computer Science degree.
+Hi, I'm Onkar Birajdar, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 </br>
 ## &#x1f4c8; GitHub Stats
 
@@ -28,3 +28,5 @@ Onkar Birajdar is an aspiring software developer. He is from Solapur, living in 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Onkar-Birajdar)](https://github.com/anuraghazra/github-readme-stats)
+
