@@ -12,6 +12,6 @@ Onkar Birajdar is an aspiring software developer. He is from Solapur, living in 
 </a>
 </br>
 **Languages and Tools:**
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Onkar-Birajdar&repo=convoychat" />
+<a href="https://github.com/Onkar-Birajdar/Portfolio.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Onkar-Birajdar&repo=Portfolio.github.io" />
 </a>
