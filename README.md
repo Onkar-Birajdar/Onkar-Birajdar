@@ -15,10 +15,10 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
--- 💬 Ask me about anything, I am happy to help;
---🌱 I’m currently learning Rust;
--- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
--- ✨ **Wanna Talk?** [calendly](https://calendly.com/onkar-birajdar/15min)
+- 💬 Ask me about anything, I am happy to help;
+- 🌱 I’m currently learning Rust;
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- ✨ **Wanna Talk?** [calendly](https://calendly.com/onkar-birajdar/15min)
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
 📊 **This Week I Spent My Time On:**
 ```text
