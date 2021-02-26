@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Onkar!
-</br>
+
 Onkar Birajdar is an aspiring software developer. He is from Solapur, living in India and currently pursuing Computer Science degree.
-</br>
 </br>
 ## &#x1f4c8; GitHub Stats
 
