@@ -8,7 +8,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Onkar-Birajdar.Onkar-Birajdar)
 
-Hi, I'm Onkar Birajdar, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+  Hi, I'm [Onkar Birajdar](https://onkar-birajdar.github.io/Portfolio.github.io/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+  A tech enthusiast is passionately interested in finding that one bug in the society to convert it into some lines of code that displays the output as compiled successfully impacting millions of lives. I am in love with the concept of Engineering, rather than just a course for me it's a way to engineer solutions for the problems we see around us and I feel privileged to have this power in my hands to be able to solve the problems I see!
 </br>
 ## &#x1f4c8; GitHub Stats
 
