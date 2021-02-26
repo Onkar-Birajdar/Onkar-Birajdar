@@ -27,7 +27,7 @@ Other        15 mins         ▒░░░░░░░░░░░░░░░░
 HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
