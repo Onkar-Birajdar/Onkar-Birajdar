@@ -13,6 +13,10 @@ Hi, I'm Onkar Birajdar, a passionate self-taught Full Stack web developer and a 
 <a href="https://github.com/Onkar-Birajdar/Portfolio.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Onkar-Birajdar&repo=Portfolio.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
+  <img align="center" src="https://github-readme-stats.vercel.app/wakatime?username=Onkar-Birajdar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Onkar's GitHub Stats" />
+</a>
+[](https://github-readme-stats.vercel.app/api/wakatime?username=Onkar-Birajdar)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Languages and Tools:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -28,5 +32,4 @@ Hi, I'm Onkar Birajdar, a passionate self-taught Full Stack web developer and a 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Onkar-Birajdar)](https://github.com/anuraghazra/github-readme-stats)
 
