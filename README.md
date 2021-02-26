@@ -43,7 +43,7 @@ HTML         2 mins          ░░░░░░░░░░░░░░░░░
 </a>
 
 ## 🔧 Languages and Tools:
-
+<p align="center">
   ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
@@ -58,4 +58,4 @@ HTML         2 mins          ░░░░░░░░░░░░░░░░░
   ![](https://img.shields.io/badge/Practice_Tool-Geeks_For_Geeks-informational?style=flat&logo=geeksforgeeks&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Shell-Windows_PowerShell-informational?style=flat&logo=windows-terminal&logoColor=white&color=2bbc8a)
-
+</p>
