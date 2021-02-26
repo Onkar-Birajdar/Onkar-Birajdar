@@ -17,6 +17,7 @@ Hi, I'm Onkar Birajdar, a passionate self-taught Full Stack web developer and a 
   <img align="center" src="https://github-readme-stats.vercel.app/wakatime?username=Onkar-Birajdar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Onkar's GitHub Stats" />
 </a>
 [](https://github-readme-stats.vercel.app/api/wakatime?username=Onkar-Birajdar)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Onkar-Birajdar)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Languages and Tools:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
