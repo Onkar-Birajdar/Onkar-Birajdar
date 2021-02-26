@@ -13,15 +13,12 @@
 </br>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 </br>
-
 - 💬 Ask me about anything, I am happy to help;
 - 🌱 I’m currently learning Rust;
 - 📫 How to reach me: [@onkarbi21566625](https://twitter.com/onkarbi21566625);
 - ✨ **Wanna Talk?** [calendly](https://calendly.com/onkar-birajdar/15min)
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
-</br>
 📊 **This Week I Spent My Time On:**
 ```text
 C++          5 hrs 31 mins   ██████████▒░░░░░░░░░░░░░░   41.95 % 
@@ -30,7 +27,6 @@ CSS          2 hrs 33 mins   █████░░░░░░░░░░░░
 Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
