@@ -5,7 +5,7 @@
 <a href="https://twitter.com/onkarbi21566625">
   <img align="left" alt="Onkar's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/onkar-birajdar-7a84591b1">
+<a href="https://linkedin.com/in/onkar-birajdar-7a84591b1">
   <img align="left" alt="Onkar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
