@@ -13,5 +13,5 @@ Onkar Birajdar is an aspiring software developer. He is from Solapur, living in 
 </br>
 **Languages and Tools:**
 <a href="https://github.com/Onkar-Birajdar/Portfolio.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Onkar-Birajdar&repo=Portfolio.github.io" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Onkar-Birajdar&repo=Portfolio.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
