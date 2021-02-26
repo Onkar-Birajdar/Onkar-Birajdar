@@ -9,17 +9,19 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Onkar-Birajdar.Onkar-Birajdar)
 
   Hi, I'm [Onkar Birajdar](https://onkar-birajdar.github.io/Portfolio.github.io/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-  </br>
-  A tech enthusiast is passionately interested in finding that one bug in the society to convert it into some lines of code that displays the output as compiled successfully impacting millions of lives. I am in love with the concept of Engineering, rather than just a course for me it's a way to engineer solutions for the problems we see around us and I feel privileged to have this power in my hands to be able to solve the problems I see!
+
 </br>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+</br>
 
 - 💬 Ask me about anything, I am happy to help;
 - 🌱 I’m currently learning Rust;
 - 📫 How to reach me: [@onkarbi21566625](https://twitter.com/onkarbi21566625);
 - ✨ **Wanna Talk?** [calendly](https://calendly.com/onkar-birajdar/15min)
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
+</br>
 📊 **This Week I Spent My Time On:**
 ```text
 C++          5 hrs 31 mins   ██████████▒░░░░░░░░░░░░░░   41.95 % 
