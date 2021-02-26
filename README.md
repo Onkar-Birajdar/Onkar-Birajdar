@@ -18,7 +18,16 @@
 - 💬 Ask me about anything, I am happy to help;
 - ✨ **Wanna Talk?** [calendly](https://calendly.com/onkar-birajdar/15min)
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
-
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+C++          5 hrs 31 mins   ██████████▒░░░░░░░░░░░░░░   41.95 % 
+JavaScript   4 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   36.31 % 
+CSS          2 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+```
+<!--END_SECTION:waka-->
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
