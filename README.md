@@ -1,3 +1,4 @@
+[<img src="https://raw.githubusercontent.com/Onkar-Birajdar/Onkar-Birajdar/master/Intro.gif" alt="👋 Hi there! I'm (Onkar Birajdar)|https://onkar-birajdar.github.io/Portfolio.github.io)" title="👋 Hi there! I'm (Onkar-Birajdar)|https://onkar-birajdar.github.io/Portfolio.github.io)"/>](https://onkar-birajdar.github.io/Portfolio.github.io/)
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/onkarbi21566625">
   <img align="left" alt="Onkar's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -37,6 +38,7 @@
 <!-- 
 <a href="https://github.com/Onkar-Birajdar/Portfolio.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Onkar-Birajdar&repo=Portfolio.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
 </a>
 -->
 
