@@ -15,19 +15,12 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 💬 Ask me about anything, I am happy to help;
-- 🌱 I’m currently learning Rust;
+- 🌱 I’m currently learning Web development;
 - 📫 How to reach me: [@onkarbi21566625](https://twitter.com/onkarbi21566625);
 - ✨ **Wanna Talk?** [calendly](https://calendly.com/onkar-birajdar/15min)
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
 
-📊 **This Week I Spent My Time On:**
-```text
-C++          5 hrs 31 mins   ██████████▒░░░░░░░░░░░░░░   41.95 % 
-JavaScript   4 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   36.31 % 
-CSS          2 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-```
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
@@ -36,6 +29,10 @@ HTML         2 mins          ░░░░░░░░░░░░░░░░░
 
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Birajdar&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar-Birajdar&theme=onedark" alt="Onkar-Birajdar" width="350" height="140"/>
 </a>
 
 <a href="https://github.com/Onkar-Birajdar/Portfolio.github.io">
