@@ -42,7 +42,7 @@
 -->
 
 ## 🔧 Languages and Tools:
-  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/OS-Window's-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -50,9 +50,11 @@
   ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)  
+  ![](https://img.shields.io/badge/Framework-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Framework-Express.JS-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Library-React.JS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Shell-Windows_PowerShell-informational?style=flat&logo=windows-terminal&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Tool-Leetcode-informational?style=flat&logo=leetcode&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Practice_Tool-Leetcode-informational?style=flat&logo=leetcode&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Practice_Tool-Geeks_For_Geeks-informational?style=flat&logo=geeksforgeeks&logoColor=white&color=2bbc8a)
