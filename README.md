@@ -15,7 +15,7 @@
 
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝙳𝚂𝙰, 𝙲, 𝙲++,𝙵𝚛𝚘𝚗𝚝 𝙴𝚗𝚍, 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙;
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔;
-- 📫 How to reach me: [@𝚘𝚗𝚔𝚊𝚛𝚋𝚒𝟸𝟷𝟻𝟼𝟼𝟼𝟸𝟻](https://twitter.com/onkarbi21566625);
+- 📫 How to reach me: [@𝚘𝚗𝚔𝚊𝚛-birajdar8](https://twitter.com/onkar-birajdar8);
 - ✨ **Wanna Talk?** [𝚌𝚊𝚕𝚎𝚗𝚍𝚕𝚢](https://calendly.com/onkar-birajdar/15min)
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
 
