@@ -1,7 +1,7 @@
 [<img src="https://raw.githubusercontent.com/Onkar-Birajdar/Onkar-Birajdar/master/Intro.gif" alt="👋 Hi there! I'm (Onkar Birajdar)|https://onkar-birajdar.github.io/Portfolio.github.io)" title="👋 Hi there! I'm (Onkar-Birajdar)|https://onkar-birajdar.github.io/Portfolio.github.io)"/>](https://onkar-birajdar.github.io/Portfolio.github.io/)
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! 
 <a href="https://twitter.com/onkarbi21566625">
-  <img align="right" alt="Onkar's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Onkar's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/onkar-birajdar-7a84591b1">
   <img align="left" alt="Onkar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -13,10 +13,7 @@
   </br>
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝙳𝚂𝙰, 𝙲, 𝙲++,𝙵𝚛𝚘𝚗𝚝 𝙴𝚗𝚍, 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙;
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔;
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Birajdar&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
