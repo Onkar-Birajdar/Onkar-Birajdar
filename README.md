@@ -21,7 +21,7 @@
 <br>
 <br>
 
-## &#x1f4c8; 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂:
+## &#x1f4c8; 𝐆𝐢𝐭𝐡𝐮𝐛 𝐬𝐭𝐚𝐭𝐬:
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Birajdar&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -37,7 +37,7 @@
 
 <br>
 
-##🔧 :
+##🔧 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬 :
   ![](https://img.shields.io/badge/OS-Window's-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
@@ -55,8 +55,8 @@
   ![](https://img.shields.io/badge/Practice_Tool-Leetcode-informational?style=flat&logo=leetcode&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Practice_Tool-Geeks_For_Geeks-informational?style=flat&logo=geeksforgeeks&logoColor=white&color=2bbc8a)
   
-  ## 🅿🅸🅽🅴🅳  🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈:
+  ## 𝐏𝐢𝐧𝐞𝐝  𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲:
   <a href="https://github.com/Onkar-Birajdar/Portfolio.github.io">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Onkar-Birajdar&repo=Portfolio.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Onkar-Birajdar&repo=Portfolio.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
   
