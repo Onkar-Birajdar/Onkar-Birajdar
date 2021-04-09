@@ -20,6 +20,7 @@
 <br>
 <br>
 <br>
+<br>
 
 ## &#x1f4c8; 𝐆𝐢𝐭𝐡𝐮𝐛 𝐬𝐭𝐚𝐭𝐬:
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
@@ -33,11 +34,10 @@
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
   <img  src="https://github-readme-stats.vercel.app/api?username=Onkar-Birajdar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Onkar's GitHub Stats" />
 </a>
-
-
 <br>
 
 ##🔧 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬 :
+
   ![](https://img.shields.io/badge/OS-Window's-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
