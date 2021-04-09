@@ -14,10 +14,16 @@
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝙳𝚂𝙰, 𝙲, 𝙲++,𝙵𝚛𝚘𝚗𝚝 𝙴𝚗𝚍, 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙;
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔;
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+
+<br>
 ## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Birajdar&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a><a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
+</a>
+<a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar-Birajdar&theme=onedark" alt="Onkar-Birajdar" width="350" height="140"/>
 </a>
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
