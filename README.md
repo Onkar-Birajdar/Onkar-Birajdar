@@ -14,7 +14,8 @@
   
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-
+<br>
+<br>
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝙳𝚂𝙰, 𝙲, 𝙲++,𝙵𝚛𝚘𝚗𝚝 𝙴𝚗𝚍, 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙;
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔;
 
@@ -25,7 +26,6 @@
 <br>
 <br>
 <br>
-
 ## &#x1f4c8; 𝐆𝐢𝐭𝐡𝐮𝐛 𝐬𝐭𝐚𝐭𝐬:
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Birajdar&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -34,7 +34,7 @@
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar-Birajdar&theme=onedark" alt="Onkar-Birajdar" width="350" height="140"/>
 </a>
-
+<br>
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
   <img  src="https://github-readme-stats.vercel.app/api?username=Onkar-Birajdar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Onkar's GitHub Stats" />
 </a>
