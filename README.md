@@ -1,7 +1,7 @@
 [<img src="https://raw.githubusercontent.com/Onkar-Birajdar/Onkar-Birajdar/master/Intro.gif" alt="👋 Hi there! I'm (Onkar Birajdar)|https://onkar-birajdar.github.io/Portfolio.github.io)" title="👋 Hi there! I'm (Onkar-Birajdar)|https://onkar-birajdar.github.io/Portfolio.github.io)"/>](https://onkar-birajdar.github.io/Portfolio.github.io/)
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! 
 <a href="https://twitter.com/onkarbi21566625">
-  <img align="left" alt="Onkar's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="right" alt="Onkar's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/onkar-birajdar-7a84591b1">
   <img align="left" alt="Onkar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
