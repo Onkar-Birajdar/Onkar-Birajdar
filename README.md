@@ -17,18 +17,17 @@
 
 <a href="https://discord.com/users/750605441255473264" target="_blank">
 	<img width="48%" align="left" height="250"  alt="Discord Status" src="https://lanyard.cnrad.dev/api/750605441255473264?bg=1f1f1f&borderRadius=5px">
-	<img width="48%" align="" height="240"  src="https://github.com/Onkar-Birajdar/Onkar-Birajdar/blob/66345102e0e4c1f020ca5e6a82febd8cc6f52472/coding.gif" alt="Coding Gif"/>
+	<img width="48%" align="" height="240"  src="https://github.com/Onkar-Birajdar/Onkar-Birajdar/blob/66345102e0e4c1f020ca5e6a82febd8cc6f52472/coding.gif"       alt="Coding-Gig"/>
 </a>
 
 <a href="https://wakatime.com/@Clash_Coder" target="_blank">
 	<img width="100%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Clash_Coder&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
 </a>
+----
 
-<br>
-
-## &#x1f4c8; Github Stat  :
-<a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
-  <img  width="33%" align="" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Birajdar&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+### &#x1f4c8; Github Stat  :
+   <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
+         <img  width="33%" align="" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Birajdar&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
@@ -39,10 +38,8 @@
   <img  width="32%" align="" height="200" src="https://github-readme-stats.vercel.app/api?username=Onkar-Birajdar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Onkar's GitHub Stats" />
 </a>
 
-
-<br>
-
-## 🔧𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬 :
+---
+### 🔧𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬 :
 
   ![](https://img.shields.io/badge/OS-Window's-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
@@ -61,7 +58,13 @@
   ![](https://img.shields.io/badge/Practice_Tool-Leetcode-informational?style=flat&logo=leetcode&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Practice_Tool-Geeks_For_Geeks-informational?style=flat&logo=geeksforgeeks&logoColor=white&color=2bbc8a)
   
-  ## 𝐏𝐢𝐧𝐞𝐝 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲:
+---
+
+### Spotify Playing 🎧
+  [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31aiepcyxosxso5s6ie6nvinjtui)
+
+---
+### 𝐏𝐢𝐧𝐞𝐝 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲:
   <a href="https://github.com/Onkar-Birajdar/Portfolio.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Onkar-Birajdar&repo=Portfolio.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
