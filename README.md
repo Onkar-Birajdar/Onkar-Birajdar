@@ -17,7 +17,7 @@
 
 <a href="https://discord.com/users/750605441255473264" target="_blank">
   <img  align="left"  alt="Discord Status" src="https://lanyard.cnrad.dev/api/750605441255473264?bg=1f1f1f&borderRadius=5px">
-  <img  alt="GIF" height="215px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+  <img  alt="GIF" height="200px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 </a>
 
