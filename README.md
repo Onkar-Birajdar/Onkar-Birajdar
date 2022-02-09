@@ -16,8 +16,8 @@
   ℍ𝕚,Ｉ αм  💀[🅾🅽🅺🅰🆁 🅱🅸🆁🅰🅹🅳🅰🆁](https://onkar-birajdar.github.io/Portfolio.github.io/),𝙰 𝚝𝚎𝚌𝚑 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 𝚒𝚜 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎𝚕𝚢 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚏𝚒𝚗𝚍𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚘𝚗𝚎 𝚋𝚞𝚐 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚘𝚌𝚒𝚎𝚝𝚢 𝚝𝚘 𝚌𝚘𝚗𝚟𝚎𝚛𝚝 𝚒𝚝 𝚒𝚗𝚝𝚘 𝚜𝚘𝚖𝚎 𝚕𝚒𝚗𝚎𝚜 𝚘𝚏 𝚌𝚘𝚍𝚎 𝚝𝚑𝚊𝚝 𝚍𝚒𝚜𝚙𝚕𝚊𝚢𝚜 𝚝𝚑𝚎 𝚘𝚞𝚝𝚙𝚞𝚝 𝚊𝚜 𝚌𝚘𝚖𝚙𝚒𝚕𝚎𝚍 𝚜𝚞𝚌𝚌𝚎𝚜𝚜𝚏𝚞𝚕𝚕𝚢 𝚒𝚖𝚙𝚊𝚌𝚝𝚒𝚗𝚐 𝚖𝚒𝚕𝚕𝚒𝚘𝚗𝚜 𝚘𝚏 𝚕𝚒𝚟𝚎𝚜. 𝙸 𝚊𝚖 𝚒𝚗 𝚕𝚘𝚟𝚎 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚌𝚘𝚗𝚌𝚎𝚙𝚝 𝚘𝚏 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐, 𝚛𝚊𝚝𝚑𝚎𝚛 𝚝𝚑𝚊𝚗 𝚓𝚞𝚜𝚝 𝚊 𝚌𝚘𝚞𝚛𝚜𝚎 𝚏𝚘𝚛 𝚖𝚎 𝚒𝚝'𝚜 𝚊 𝚠𝚊𝚢 𝚝𝚘 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚠𝚎 𝚜𝚎𝚎 𝚊𝚛𝚘𝚞𝚗𝚍 𝚞𝚜 𝚊𝚗𝚍 𝙸 𝚏𝚎𝚎𝚕 𝚙𝚛𝚒𝚟𝚒𝚕𝚎𝚐𝚎𝚍 𝚝𝚘 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛 𝚒𝚗 𝚖𝚢 𝚑𝚊𝚗𝚍𝚜 𝚝𝚘 𝚋𝚎 𝚊𝚋𝚕𝚎 𝚝𝚘 𝚜𝚘𝚕𝚟𝚎 𝚝𝚑𝚎 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝙸 𝚜𝚎𝚎!
 
 <a href="https://discord.com/users/750605441255473264" target="_blank">
-	<img width="48%" align="left" height="250"  alt="Discord Status" src="https://lanyard.cnrad.dev/api/750605441255473264?bg=1f1f1f&borderRadius=5px">
-	<img width="48%" align="" height="240"  src="https://github.com/Onkar-Birajdar/Onkar-Birajdar/blob/66345102e0e4c1f020ca5e6a82febd8cc6f52472/coding.gif"       alt="Coding-Gig"/>
+	<img  align="left" height="250"  alt="Discord Status" src="https://lanyard.cnrad.dev/api/750605441255473264?bg=1f1f1f&borderRadius=5px">
+	<img  align="" height="240"  src="https://github.com/Onkar-Birajdar/Onkar-Birajdar/blob/66345102e0e4c1f020ca5e6a82febd8cc6f52472/coding.gif"       alt="Coding-Gig"/>
 </a>
 
 <a href="https://wakatime.com/@Clash_Coder" target="_blank">
@@ -27,15 +27,15 @@
 
 ### &#x1f4c8; Github Stat  :
    <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
-         <img  width="33%" align="" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Birajdar&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+         <img  align="left" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Birajdar&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
-  <img width="33%" align="" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar-Birajdar&theme=onedark" alt="Onkar-Birajdar" width="350" height="140"/>
+  <img align="right" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar-Birajdar&theme=onedark" alt="Onkar-Birajdar" width="350" height="140"/>
 </a>
 
 <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
-  <img  width="32%" align="" height="200" src="https://github-readme-stats.vercel.app/api?username=Onkar-Birajdar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Onkar's GitHub Stats" />
+  <img   align="" height="200" src="https://github-readme-stats.vercel.app/api?username=Onkar-Birajdar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Onkar's GitHub Stats" />
 </a>
 
 ---
