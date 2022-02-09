@@ -17,7 +17,7 @@
 
 <a href="https://discord.com/users/750605441255473264" target="_blank">
   <img  align="left"  alt="Discord Status" src="https://lanyard.cnrad.dev/api/750605441255473264?bg=1f1f1f&borderRadius=5px">
-  <img  alt="GIF" height="220px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+  <img  alt="GIF" height="215px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 </a>
 
@@ -53,7 +53,7 @@
   ![](https://img.shields.io/badge/Practice_Tool-Geeks_For_Geeks-informational?style=flat&logo=geeksforgeeks&logoColor=white&color=2bbc8a)
   
 ---
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
   [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31aiepcyxosxso5s6ie6nvinjtui)
