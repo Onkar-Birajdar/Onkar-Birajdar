@@ -17,15 +17,6 @@
 
 <hr>
 
-<a href="https://discord.com/users/750605441255473264" target="_blank">
-       <img align="left" width="40%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/750605441255473264?bg=1f1f1f&borderRadius=5px"/>
-</a>
-<a href="https://wakatime.com/@Clash_Coder" target="_blank">
-      <img align="right" width="56%  alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Clash_Coder&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats" />
-</a>
-
-
----
 ### &#x1f4c8; Github Stat  :
   <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
     <img   align=""  src="https://github-readme-stats.vercel.app/api?username=Onkar-Birajdar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Onkar's GitHub Stats" />
@@ -60,6 +51,14 @@
 ---
 ### 𝐏𝐢𝐧𝐞𝐝 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲:
  <a href="https://github.com/Onkar-Birajdar/Portfolio.github.io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Onkar-Birajdar&repo=Portfolio.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onkar-Birajdar&repo=Portfolio.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
   
+
+---
+<a href="https://discord.com/users/750605441255473264" target="_blank">
+       <img align="left" width="35%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/750605441255473264?bg=1f1f1f&borderRadius=5px"/>
+</a>
+<a href="https://wakatime.com/@Clash_Coder" target="_blank">
+      <img align="right" width="55%  alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Clash_Coder&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats" />
+</a>
