@@ -1,6 +1,6 @@
-[<img src="https://raw.githubusercontent.com/Onkar-Birajdar/Onkar-Birajdar/master/Intro.gif" alt="👋 Hi there! I'm (Onkar Birajdar)|https://onkar-birajdar.github.io/Portfolio.github.io)" title="👋 Hi there! I'm (Onkar-Birajdar)|https://onkar-birajdar.github.io/Portfolio.github.io)"/>](https://onkar-birajdar.github.io/Portfolio.github.io/)
+[<img src="https://raw.githubusercontent.com/Onkar-Birajdar/Onkar-Birajdar/master/Intro.gif" alt="👋 Hi there! I'm (Onkar Birajdar)|https://onkar-birajdar.github.io/Portfolio.github.io)" title="👋 Hi there! I'm (Onkar-Birajdar)|https://onkar-birajdar.github.io/Portfolio.github.io)" />](https://onkar-birajdar.github.io/Portfolio.github.io/)
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! 
+### 👋 Hi there! 
 <a href="https://www.instagram.com/clash_coder/">
   <img align="left" alt="Onkar's Twitter" width="22px" src="https://raw.githubusercontent.com/Onkar-Birajdar/Onkar-Birajdar/master/instagram.png" />
 </a>
@@ -17,8 +17,7 @@
 
 <a href="https://discord.com/users/750605441255473264" target="_blank">
   <img  align="left"  alt="Discord Status" src="https://lanyard.cnrad.dev/api/750605441255473264?bg=1f1f1f&borderRadius=5px">
-  <img  alt="GIF" height="185px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-  
+  <img  alt="GIF" height="185px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />  
 </a>
 <br>
 
