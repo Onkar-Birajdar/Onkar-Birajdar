@@ -17,7 +17,7 @@
 
 <hr>
 <a href="https://discord.com/users/750605441255473264" target="_blank">
-       <img width="39% align="left"  alt="Discord Status" src="https://lanyard.cnrad.dev/api/750605441255473264?bg=1f1f1f&borderRadius=5px"/>
+       <img align="left" width="20%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/750605441255473264?bg=1f1f1f&borderRadius=5px"/>
 </a>
 <a href="https://wakatime.com/@Clash_Coder" target="_blank">
       <img align="right" width="59%  alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Clash_Coder&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats" />
@@ -29,8 +29,8 @@
 
 ### &#x1f4c8; Github Stat  :
   <a href="https://github.com/Onkar-Birajdar/Onkar-Birajdar">
-    <img   align="" width="59%" src="https://github-readme-stats.vercel.app/api?username=Onkar-Birajdar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Onkar's GitHub Stats" />
-  </a>
+    <img   align=""  src="https://github-readme-stats.vercel.app/api?username=Onkar-Birajdar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Onkar's GitHub Stats" />
+</a>
   
 ---
 ### 🔧𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬 :
