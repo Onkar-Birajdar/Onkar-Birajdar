@@ -8,7 +8,7 @@
   <img align="left" alt="Onkar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://discord.com/users/750605441255473264">
-  <img align="left" alt="Onkar's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Onkar's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Onkar-Birajdar.Onkar-Birajdar)
@@ -17,7 +17,6 @@
 
 <a href="https://discord.com/users/750605441255473264" target="_blank">
   <img  align="left"  alt="Discord Status" src="https://lanyard.cnrad.dev/api/750605441255473264?bg=1f1f1f&borderRadius=5px">
-  <img  alt="GIF" height="185px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />  
 </a>
 <br>
 
