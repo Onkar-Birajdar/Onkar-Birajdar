@@ -4,11 +4,11 @@
 <a href="https://www.instagram.com/clash_coder/">
   <img align="left" alt="Onkar's Twitter" width="22px" src="https://raw.githubusercontent.com/Onkar-Birajdar/Onkar-Birajdar/master/instagram.png" />
 </a>
-<a href="https://linkedin.com/in/onkar-birajdar-7a84591b1">
-  <img align="left" alt="Onkar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://linkedin.com/in/onkar-birajdar">
+  <img alt="Onakr's LinkedIn" title="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin"></a>
 </a>
 <a href="https://discord.com/users/750605441255473264">
-  <img align="left" alt="Onkar's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img alt="Onkar's" title="Discord" width="22px" src="https://cdn.simpleicons.org/discord"></a>
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Onkar-Birajdar.Onkar-Birajdar)
