@@ -31,7 +31,7 @@ Most of my work revolves around backend systems, infra, and deployment pipelines
 `JavaScript` `Java` `Python` `SQL`
 
 ### Backend & Systems
-`Node.js` `REST APIs` `JWT Auth` `System Design`
+`Spring Boot` `Node.js` `REST APIs` `JWT Auth` `System Design`
 
 ### Frontend (when needed)
 `React` `React Native`
